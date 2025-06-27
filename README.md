@@ -63,6 +63,17 @@ I'm a passionate developer with **2+ years** of experience in building high-perf
 
 ---
 
+## 👨‍💻 Open Source Contributions
+
+### 🔹 [Expensify/App](https://github.com/Expensify/App)
+Contributed to Expensify's open-source React Native project.  
+- ✅ Fixed 50+ UI bugs and performance issues  
+- 🛠️ Improved cross-platform compatibility  
+- 📂 Tech Stack: React Native, JavaScript, Git, GitHub
+
+
+---
+
 ## 📈 GitHub Stats
 
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=krypton4149&show_icons=true&theme=github_dark)
